@@ -1,0 +1,20 @@
+body {
+    background-color: lavender;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    column-count: 3;
+
+
+}
+
+fieldset {
+    border-color: blue;
+    border-radius: 35px;
+}
+
